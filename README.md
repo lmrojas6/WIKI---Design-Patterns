@@ -6,4 +6,4 @@ La Segunda Parte es enfocada a los Patrones de Diseño en Ruby, en los que se de
 
 Link WIKI - Patrones de Diseño en Python: https://patrones-de-diseno.fandom.com/es/f/p/4400000000000028758
 Link WIKI - Patrones de Diseño en Ruby: https://patrones-de-diseno-en-ruby.fandom.com/es/f/p/4400000000000025542
-Link Video - Patrones de Diseño Explicación: https://vimeo.com/508914022 https://vimeo.com/user126903524/review/508914022/db6e163d8b
+Link Video - Patrones de Diseño Explicación: https://vimeo.com/user126903524/review/509362689/319d1ad049
